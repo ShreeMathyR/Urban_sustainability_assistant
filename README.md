@@ -67,7 +67,7 @@ This project is a multi-phase, AI-enabled urban monitoring and intelligence syst
 
 - Visual dashboard is generated with metrics and indicators.
 
-  ## 📦 Requirements
+ ## 📦 Requirements
       pip install pandas matplotlib scikit-learn ipywidgets
 
   ## 🌍 Purpose
