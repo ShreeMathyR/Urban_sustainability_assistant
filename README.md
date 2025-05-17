@@ -31,6 +31,12 @@ This project is a multi-phase, AI-enabled urban monitoring and intelligence syst
   - Traffic Index
 
 ### 🔒 Blockchain-style Civic Feedback
+        {
+     "timestamp": "2025-05-17T12:34:56",
+     "feedback": "Need better drainage in sector C",
+     "hash": "a7d3c9f...eaf0"
+        }
+
 - Users submit feedback, which is hashed and timestamped into a simulated blockchain ledger, ensuring transparency and immutability.
 
 ### 📊 Dashboard and Visualization
@@ -42,16 +48,39 @@ This project is a multi-phase, AI-enabled urban monitoring and intelligence syst
 
 ---
 
-## 🚀 How to Run
+  ## 🚀 How to Run
 
   
-  ### 1. Console Scripts
+  ### 1.Console Scripts
   Run the following Python scripts via terminal or an IDE:
 
-   ```bash
+
        python "Urban upgrade.py"
-         python "Final release for urban monitoring.py"
-           pip install pandas matplotlib scikit-learn
-            pip install pandas matplotlib scikit-learn ipywidgets
+       python "Final release for urban monitoring.py"
+       
+       # Run all cells in:
+        build the future of urban intelligence.py
+  ## 📌 Example Output
+- Urban issues like “Slum Area” and “Flood-Prone Zones” are detected.
+
+- Suggestions like “Build Flyover” or “Upgrade Drainage” are proposed.
+
+- Visual dashboard is generated with metrics and indicators.
+
+  ## 📦 Requirements
+      pip install pandas matplotlib scikit-learn ipywidgets
+
+  ## 🌍 Purpose
+Built to explore how AI, IoT, and blockchain can be used together to improve urban planning, sustainability, and public engagement in smart cities.
+
+## 📬 Contact
+   Created by *Shreemathy. R*
+   
+### 📧 Email: mathyshree19@gmail.com
+### 🌐 GitHub: https://github.com/ShreeMathyR
+
+      
+
+
 
 
